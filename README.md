@@ -1,12 +1,11 @@
 # USB Hub Macro Pad with Customizable Keys
-[Read the project build journal](journal.md) for detailed progress updates and technical notes.
+
 
 ## Description
 This is a custom-built USB hub macro pad that combines a 4-port USB hub with programmable macro keys and RGB lighting. The device features Kailh mechanical switches for macro functions, customizable key bindings, an OLED display, rotary encoder, and acts as a powered USB hub for connecting multiple devices. Built around a XIAO RP2040 microcontroller that handles both USB hub functionality and macro key programming with WS2812B RGB LEDs for visual feedback.
 
 ## Why I Made This
-I wanted to create a versatile desktop accessory that serves dual purposes - providing additional USB ports while offering quick access to frequently used commands, shortcuts, and macros. This eliminates the need for separate devices and creates a clean, efficient workspace setup. The RGB lighting and OLED display add visual feedback and customization options.
-
+I aimed to desgin a multifunctional deskop accessory that fulfills two main fuctions: expanding USB connectivty and making it quicker to access commands, shortcuts, and macros I use alot. This gets rid of the need for seprate gadgets and helps keep the workspace clean and effiecent. Adding RGB lights and an OLED screen gives nice visual feedback and lets me mess around with customizations.
 ## Features
 - 4-port USB hub functionality
 - 6 programmable macro keys with Kailh switches
